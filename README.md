@@ -1,4 +1,6 @@
 <!---
+
+<!---
 - 👋 Hi, I’m @Akash11gavhane
 - 👀 I’m interested in Machine Learning..
 - 🌱 I’m currently learning Computer Science
@@ -10,9 +12,11 @@ Akash11gavhane/Akash11gavhane is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<!---
 <h1 align="center">Hi 👋, I'm Akash Gavhane</h1>
 <h3 align="center">A M.sc computer science student at MIT-WPU Pune</h3>
+--->
+
 
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash11gavhane&label=Profile%20views&color=0e75b6&style=flat" alt="akash11gavhane" /> </p>
@@ -21,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
+<!---
 <img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -49,8 +54,9 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash11gavhane&" alt="akash11gavhane" /></p>
 
+--->
 
-<!---
+
  
 <h1 align="center">Hi 👋, I'm Akash Gavhane</h1>
 <h3 align="center">A M.sc computer science student at MIT-WPU Pune</h3>
@@ -60,6 +66,8 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash11gavhane" alt="akash11gavhane" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/twitter link" target="blank"><img src="https://img.shields.io/twitter/follow/twitter link?logo=twitter&style=for-the-badge" alt="twitter link" /></a> </p>
+
+<img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently Learning **Python And Machine Learning**
 
@@ -105,4 +113,4 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash11gavhane&" alt="akash11gavhane" /></p>
 
 
---->
+

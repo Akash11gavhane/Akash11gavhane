@@ -21,8 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-<img align = "right" , alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/122737134/215188419-6a54dba4-7eb1-4b4a-b6ca-0975504bbc3f.png
-> 
+<img align = "right" , alt = "coding" width = "400" src = "![image](https://user-images.githubusercontent.com/122737134/215188881-99c6979a-ce44-483a-94c8-26bc3f148675.png)"> 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently Learning **Python And Machine Learning**

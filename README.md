@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝 I’m looking for help with [project name](project link)
 
-- 👨‍💻 All of my projects are available at [https://akion11.github.io/AkashPortFolio/](portfoliolink)
+- 👨‍💻 All of my projects are available at [PortFolio](https://akion11.github.io/AkashPortFolio/)
 
 - 📝 I regularly write articles on [https://medium.com/@akash1106gavhane](https://medium.com/@akash1106gavhane)
 
